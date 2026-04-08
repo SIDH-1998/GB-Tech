@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Chrome (Servidor Local)",
+      "request": "launch",
+      "type": "chrome",
+      "url": "http://localhost:8080",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Abrir Index.html",
+      "type": "chrome",
+      "request": "launch",
+      "file": "d:\\REPOSITORIO HTML SIDH\\GB TECH\\Index\\Index.html",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
